@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 class SpellCheckerTest {
-
+// Assignment 4
 	@Test
 	void testWordCount() {
 		SpellChecker checker = new SpellChecker();
